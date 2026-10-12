@@ -54,4 +54,6 @@ Saya Raditya Novandrian dengan NIM 2508283 mengerjakan TP-4 dalam mata kuliah DP
 
 ## Dokumentasi (Video)
 
-<video src="Dokumentasi/dokumentasi.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/67e5c357-b90b-454c-ae63-00a9def42cd5
+
+
